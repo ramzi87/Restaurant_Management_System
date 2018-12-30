@@ -1,0 +1,39 @@
+SOFTWARE PRODUCT LICENSE
+
+This software is being distributed as (Paid for personal, commercial use) 
+It may be included with CD-ROM/DVD-ROM distributions.
+
+1. Grant of License. This EULA grants you the following rights:
+
+Installation and Use. You may install and use just one copie of the Software Product.
+Reproduction and Distribution. You may not reproduce and distribute any copie of the Software Product; provided that each copy 
+shall be a true and complete copy, including all copyright and trademark notices, and shall be accompanied by a copy of this EULA.
+
+2. Description of Rights and Limitations. Limitations on Reverse Engineering, Decompilation, Disassembly and change (add,delete or modify) the 
+resources in the compiled the assembly. You may not reverse engineer, decompile, or disassemble the Software Product, except and only to the 
+extent that such activity is expressly permitted by applicable law notwithstanding this limitation.
+Update and Maintenance [X upgrades are FREE of charge.]
+
+Separation of Components.?
+The Software Product is licensed as a single product. Its component parts may not be separated for use on more than 
+one computer.
+
+Software Transfer.You may not transfer all any of the rights under this EULA, provided the recipient agrees to the terms of this EULA.
+Termination. Without prejudice to any other rights, the Author of this Software may terminate this EULA if you fail to comply with the terms 
+and conditions of this EULA. In such event, you must destroy all copies of the Software Product and all of its component parts.
+
+
+3. Copyright. All title and copyrights in and to the Software Product (including but not limited to any images, photographs, clipart, libraries,
+ and examples incorporated into the Software Product), the accompanying printed materials, and any copies of the Software Product are owned by 
+the Author of this Software. The Software Product is protected by copyright laws and international treaty provisions. Therefore, you must treat 
+the Software Product like any other copyrighted material. The licensed users or licensed company can use all functions, example, templates, clipart, libraries and symbols in the Software Product to create new diagrams and distribute the diagrams.
+LIMITED WARRANTY
+
+Warranties. The Author of this Software expressly disclaims any warranty for the Software Product. The Software Product and any related 
+documentation is provided “as is” with warranty of any kind, either express or implied, including, without limitation, the implied warranties
+ or merchantability, fitness for a particular purpose, or noninfringement. The entire risk arising out of use or performance of the Software Product
+ remains with you.
+
+Contact us :
+Email : ramziabdelkrim@gmail.com
+Phone : +213698496015

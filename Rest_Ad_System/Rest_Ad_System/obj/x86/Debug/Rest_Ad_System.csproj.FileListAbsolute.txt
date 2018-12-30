@@ -1,0 +1,36 @@
+C:\Documents and Settings\UtilisateurXp\Local Settings\Application Data\Temporary Projects\Rest_Ad_System\bin\Debug\Rest_Ad_System.exe
+C:\Documents and Settings\UtilisateurXp\Local Settings\Application Data\Temporary Projects\Rest_Ad_System\bin\Debug\Rest_Ad_System.pdb
+C:\Documents and Settings\UtilisateurXp\Local Settings\Application Data\Temporary Projects\Rest_Ad_System\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\UtilisateurXp\Local Settings\Application Data\Temporary Projects\Rest_Ad_System\obj\x86\Debug\Rest_Ad_System.Properties.Resources.resources
+C:\Documents and Settings\UtilisateurXp\Local Settings\Application Data\Temporary Projects\Rest_Ad_System\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\UtilisateurXp\Local Settings\Application Data\Temporary Projects\Rest_Ad_System\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\UtilisateurXp\Local Settings\Application Data\Temporary Projects\Rest_Ad_System\obj\x86\Debug\Rest_Ad_System.exe
+C:\Documents and Settings\UtilisateurXp\Local Settings\Application Data\Temporary Projects\Rest_Ad_System\obj\x86\Debug\Rest_Ad_System.pdb
+C:\Documents and Settings\UtilisateurXp\Local Settings\Application Data\Temporary Projects\Rest_Ad_System\obj\x86\Debug\Rest_Ad_System.RMS.resources
+C:\Documents and Settings\UtilisateurXp\Bureau\Res_Sys_Administration\Rest_Ad_System\Rest_Ad_System\obj\x86\Debug\Rest_Ad_System.exe
+C:\Documents and Settings\UtilisateurXp\Bureau\Res_Sys_Administration\Rest_Ad_System\Rest_Ad_System\obj\x86\Debug\Rest_Ad_System.pdb
+C:\Documents and Settings\UtilisateurXp\Bureau\Res_Sys_Administration\Rest_Ad_System\Rest_Ad_System\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\UtilisateurXp\Bureau\Res_Sys_Administration\Rest_Ad_System\Rest_Ad_System\obj\x86\Debug\Rest_Ad_System.RMS.resources
+C:\Documents and Settings\UtilisateurXp\Bureau\Res_Sys_Administration\Rest_Ad_System\Rest_Ad_System\obj\x86\Debug\Rest_Ad_System.Properties.Resources.resources
+C:\Documents and Settings\UtilisateurXp\Bureau\Res_Sys_Administration\Rest_Ad_System\Rest_Ad_System\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\UtilisateurXp\Bureau\Res_Sys_Administration\Rest_Ad_System\Rest_Ad_System\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\UtilisateurXp\Bureau\Res_Sys_Administration\Rest_Ad_System\Rest_Ad_System\bin\Debug\Rest_Ad_System.exe
+C:\Documents and Settings\UtilisateurXp\Bureau\Res_Sys_Administration\Rest_Ad_System\Rest_Ad_System\bin\Debug\Rest_Ad_System.pdb
+C:\Documents and Settings\UtilisateurXp\Bureau\Res_Sys_Administration\Rest_Ad_System\Rest_Ad_System\bin\Debug\Rest_Ad_System.exe.config
+C:\Documents and Settings\UtilisateurXp\Bureau\Res_Sys_Administration\Rest_Ad_System\Rest_Ad_System\obj\x86\Debug\Rest_Ad_System.Form2.resources
+C:\Documents and Settings\UtilisateurXp\Bureau\Res_Sys_Administration\Rest_Ad_System\Rest_Ad_System\obj\x86\Debug\Rest_Ad_System.Login.resources
+C:\Documents and Settings\UtilisateurXp\Bureau\Res_Sys_Administration\Rest_Ad_System\Rest_Ad_System\obj\x86\Debug\Rest_Ad_System.Print.resources
+C:\Users\Pc\Desktop\Res_Sys_Administration\Rest_Ad_System\Rest_Ad_System\bin\Debug\Rest_Ad_System.exe.config
+C:\Users\Pc\Desktop\Res_Sys_Administration\Rest_Ad_System\Rest_Ad_System\bin\Debug\Rest_Ad_System.exe
+C:\Users\Pc\Desktop\Res_Sys_Administration\Rest_Ad_System\Rest_Ad_System\bin\Debug\Rest_Ad_System.pdb
+C:\Users\Pc\Desktop\Res_Sys_Administration\Rest_Ad_System\Rest_Ad_System\obj\x86\Debug\Rest_Ad_System.csprojAssemblyReference.cache
+C:\Users\Pc\Desktop\Res_Sys_Administration\Rest_Ad_System\Rest_Ad_System\obj\x86\Debug\Rest_Ad_System.RMS.resources
+C:\Users\Pc\Desktop\Res_Sys_Administration\Rest_Ad_System\Rest_Ad_System\obj\x86\Debug\Rest_Ad_System.Form2.resources
+C:\Users\Pc\Desktop\Res_Sys_Administration\Rest_Ad_System\Rest_Ad_System\obj\x86\Debug\Rest_Ad_System.Login.resources
+C:\Users\Pc\Desktop\Res_Sys_Administration\Rest_Ad_System\Rest_Ad_System\obj\x86\Debug\Rest_Ad_System.Print.resources
+C:\Users\Pc\Desktop\Res_Sys_Administration\Rest_Ad_System\Rest_Ad_System\obj\x86\Debug\Rest_Ad_System.Properties.Resources.resources
+C:\Users\Pc\Desktop\Res_Sys_Administration\Rest_Ad_System\Rest_Ad_System\obj\x86\Debug\Rest_Ad_System.csproj.GenerateResource.cache
+C:\Users\Pc\Desktop\Res_Sys_Administration\Rest_Ad_System\Rest_Ad_System\obj\x86\Debug\Rest_Ad_System.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\Res_Sys_Administration\Rest_Ad_System\Rest_Ad_System\obj\x86\Debug\Rest_Ad_System.exe
+C:\Users\Pc\Desktop\Res_Sys_Administration\Rest_Ad_System\Rest_Ad_System\obj\x86\Debug\Rest_Ad_System.pdb
+C:\Users\Pc\Desktop\Res_Sys_Administration\Rest_Ad_System\Rest_Ad_System\obj\x86\Debug\Rest_Ad_System.Form3.resources
